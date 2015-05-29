@@ -2,3 +2,14 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	You create a .something file that tracks the files in the directory
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	staging area identifies files from working directory to be put in repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+	
+	you can identify which files are to be committed using the add command 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	if you want to experiment with adding a feature that you may or may not want to keep then a branch could be helpful
