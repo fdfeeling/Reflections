@@ -6,3 +6,9 @@ Why might you want to always pull changes manually rather than having Git automa
     
     You may want to debug all changes before you upload the file to Github
     
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
+
+	fork occurs when you copy another's repository on Github to your Github account
+	clone is when you copy a repository onto your local computer
+	branch occurs when you want to write new code but not update the master
+
