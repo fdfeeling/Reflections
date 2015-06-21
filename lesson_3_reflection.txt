@@ -12,3 +12,7 @@ Describe the differences between forks, clones, and branches.  When would you us
 	clone is when you copy a repository onto your local computer
 	branch occurs when you want to write new code but not update the master
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	it collaborating, it makes reconciling changes made by multiple participants easier.
+
